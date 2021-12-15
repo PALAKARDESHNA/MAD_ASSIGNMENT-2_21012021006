@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp"
+   >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/list_yoga_img"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/yoga1" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/list_yoga_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TWIST DETOX"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/list_yoga_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="morning Yoga"
+                android:textSize="15dp"
+                android:textColor="@color/black"/>
+
+            <TextView
+
+                android:id="@+id/list_yoga_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TYPE : BEGINNER"
+                android:textStyle="normal|bold"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
+
+</LinearLayout>
