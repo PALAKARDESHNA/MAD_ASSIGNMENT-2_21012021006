@@ -10,7 +10,7 @@ import android.widget.Toast
 class sighup : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_sighup)
+        setContentView(R.layout.activity_signup)
         supportActionBar?.hide()
        val sighup_btn : Button = findViewById(R.id.sighup_final_btn)
         sighup_btn.setOnClickListener{
