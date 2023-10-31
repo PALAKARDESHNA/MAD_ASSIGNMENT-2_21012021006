@@ -12,7 +12,9 @@ Yoga Master is a comprehensive mobile application designed to help users of all 
 3.Accessibility and Inclusivity
 4.Progress and Accountability
 5.Community and Support
-yoga app pages:
+
+
+# yoga app pages:
 ![home_1](https://github.com/PALAKARDESHNA/MAD_ASSIGNMENT-2_21012021006/assets/98075245/f65c756f-8415-44ec-b424-2f49d1e251af)
 ![login ](https://github.com/PALAKARDESHNA/MAD_ASSIGNMENT-2_21012021006/assets/98075245/2af376d1-c218-4ba8-8b41-2fde4dc4492f)
 ![login ](https://github.com/PALAKARDESHNA/MAD_ASSIGNMENT-2_21012021006/assets/98075245/e5d11f90-7a8e-4f85-851b-a86ca476885b)
