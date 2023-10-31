@@ -1,8 +1,12 @@
 # MAD_ASSIGNMENT-2_21012021006
-Description:
+# Description:
+
 Title: Yoga App
+
 Yoga Master is a comprehensive mobile application designed to help users of all levels experience the numerous physical and mental benefits of yoga. This app offers a wide range of yoga routines, guided sessions, and informative content to support users on their journey to improved health and well-being. Whether you're a seasoned yogi or just starting out, Yoga Master has something for everyone.
-objective of the app:
+
+# objective of the app:
+
 1.Promote Physical Well-being
 2.Mental Health and Stress Relief
 3.Accessibility and Inclusivity
